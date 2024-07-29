@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madja0125&show_icons=true&locale=en&layout=compact" alt="madja0125" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madja0125s&show_icons=true&locale=en" alt="madja0125" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madja0125&show_icons=true&locale=en" alt="madja0125" /></p>
