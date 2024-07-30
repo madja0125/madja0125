@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="gtr-r34.gif" width="650" height="250">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Miguel De Jesus</h1>
 <h3 align="center">Software Engineer from Puerto Rico interested on back-end development</h3>
